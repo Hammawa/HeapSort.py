@@ -1,6 +1,5 @@
 import math
 class Heap:
-    #test
     # initializes the heap with a given list and finds its size
     def __init__(self, A):
         self.heap = A
